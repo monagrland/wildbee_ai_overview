@@ -1,6 +1,10 @@
 This is a WIP List of projects regarding automated monitoring of insects, with a focus of wild bees.
 If you find missing information or mistakes, please let me know or create a pull request.
 
+TODO: Create CSV file with more detailed information: short description, contact, status, tags
+TODO: tag ideas: AI model, community,  work groups ...
+
+
 | Project    | Link | AI Model | Hardware | Software | Country |
 | -------- | ------- | :--------: | :--------: | :--------: | ------- | 
 | BeeMachine  | https://beemachine.ai/| &#x2611; | &#x2612; | &#x2611; | USA |
