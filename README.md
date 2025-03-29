@@ -17,3 +17,4 @@ TODO: Add list of papers to look into
 | Observation | https://observation.org/ | &#x2612; | &#x2612; | &#x2611; | Netherlands
 | ethoscope | https://giorgiogilestro.notion.site/Ethoscope-User-Manual-a9739373ae9f4840aa45b277f2f0e3a7 | &#x2612; | &#x2611; | &#x2611; | Netherlands
 | stickypi | https://doc.sticky-pi.com/ | &#x2611; | &#x2611; | &#x2611; | Netherlands
+| SEPPI | https://seppi-pollinate.weebly.com/ | ? | ? | ? | Germany/Belgium/Czech Republic/Finland/Italy/Romania/Latvia |
