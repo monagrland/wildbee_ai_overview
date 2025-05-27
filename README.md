@@ -2,7 +2,7 @@ This is a WIP List of projects regarding automated monitoring of insects, with a
 If you find missing information or mistakes, please let me know or create a pull request.
 
 TODO: Create CSV file with more detailed information: short description, contact, status, tags, comments, DOI if published
-TODO: tag ideas: AI model, community,  work groups ...
+TODO: tag ideas: AI model, community,  work groups, scientific or industry, active or inactive, 
 TODO: Add list of papers to look into
 
 | Project    | Link | AI Model | Hardware | Software | Country |
@@ -17,3 +17,8 @@ TODO: Add list of papers to look into
 | ethoscope | https://giorgiogilestro.notion.site/Ethoscope-User-Manual-a9739373ae9f4840aa45b277f2f0e3a7 | &#x2612; | &#x2611; | &#x2611; | Netherlands
 | stickypi | https://doc.sticky-pi.com/ | &#x2611; | &#x2611; | &#x2611; | Netherlands
 | SEPPI | https://seppi-pollinate.weebly.com/ | ? | ? | ? | Germany/Belgium/Czech Republic/Finland/Italy/Romania/Latvia |
+| entocam | [https://doc.sticky-pi.com/](https://outreachrobotics.com/entocam/) |  | || 
+| mothbox | [https://doc.sticky-pi.com/](https://www.instructables.com/Mothbox-DIY-Insect-Camera/) | | |  | 
+| semios | https://semios.com/solutions/insect-pest-management/ | |||
+
+
